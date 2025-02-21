@@ -1,1 +1,1 @@
-**This repo contains EMG data for small finger movements for an ongoing research project. The data is gathered using a BioRadio device with two surface electrodes (positive and negative) placed on the forearm and a ground electrode on the elbow.**
+This repo contains EMG data for small finger movements for an ongoing research project. The data is gathered using a BioRadio device with two surface electrodes (positive and negative) placed on the forearm and a ground electrode on the elbow.
